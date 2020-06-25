@@ -1,5 +1,5 @@
 # StopFoodDecay
-A mod for Outward that prevents all perishable food items from decaying, meaning you won't have to worry about your food rotting.  The mod has been rewritten for the release of The Soroboreans DLC, but it will work without the DLC as well.
+A mod for Outward that prevents all perishable food items from decaying, meaning you won't have to worry about your food rotting.  The mod has been rewritten for the release of The Soroboreans DLC, but it will work without the DLC as well.  Latest release is the zip archive on the main branch, and also available on [Nexus Mods](https://www.nexusmods.com/outward/mods/54 "Stop Food Decay at Outward Nexus").
 
 ## Requirements
 Requires [BepInEx](https://github.com/BepInEx/BepInEx/releases "BepInEx Release Versions") version 5.1 or later.
